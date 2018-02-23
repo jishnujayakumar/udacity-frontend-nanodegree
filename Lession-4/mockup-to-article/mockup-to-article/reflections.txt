@@ -13,3 +13,6 @@ What has been easy?
 
 What has been difficult?
 => Fortunately, nothing till now.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+=> Yes
